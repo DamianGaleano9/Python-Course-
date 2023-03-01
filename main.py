@@ -7,9 +7,8 @@
     [4, 5, 6, 7, 8],
 ]
 """
+
 """
-
-
 def manual_incrementing_matrix(n):
   matrix = [[None for y in range(n)] for x in range(n)]
 
@@ -27,16 +26,6 @@ def manual_incrementing_matrix(n):
 print(manual_incrementing_matrix(3))
 
 """
-
-
-
-
-
-
-
-
-
-
 
 #Python String Basics
 
